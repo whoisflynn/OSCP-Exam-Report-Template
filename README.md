@@ -15,7 +15,7 @@ I wanted to share these templates with the community to help alleviate some of t
 8. Added a header for Nmap scan results (screenshot)
 9. Added a header for Initial Shell Screenshot
 10. Added headers for Proof.txt Contents and the Proof.txt Screenshot
-11. Added Appendix 1 - Proof and Local Contents. This is an easy way to track those keys
+11. Added Appendix 1 - Proof Contents. This is an easy way to track those keys
 12. Added Appendix 2 - PWK Course Exercises
 13. Included all the headers for the requested exercises. The exercises are not included, as they are present in the course material
 
